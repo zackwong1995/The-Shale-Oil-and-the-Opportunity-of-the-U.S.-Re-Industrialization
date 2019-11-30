@@ -178,6 +178,8 @@ STAGE3 ：
 <div align="center"> <img src="https://github.com/zackwong1995/The-Shale-Oil-and-the-Opportunity-of-the-U.S.-Re-Industrialization/blob/master/6.png" width = 50% height = 50% alt="Figure 1" /> </div>
 <br/>
 可发现γ	> 0 . 25 并且	m/(2+2m)<γ　时， 厂商才会有选择回流， 迁返回美国设厂。
+
+
 ### 四、结论
 我们探讨的问题分别是「企业回流美国是否有利? 」和「制造业厂商是否该回流美国? 」。经过我们设计的模型并分析归纳后得知， 若要在外设厂的外流厂商回流美国， 至少 q2 需要满足以下两个流件：
 <br/>
