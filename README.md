@@ -59,6 +59,8 @@ STAGE1:
 <div align="center"> x= \frac{a-r<sub>1</sub>}/ {1+m}　　　　　　　　(a)
 </div>
 
+$a\div{b}$
+
 得出最终财厂商的的最终财生产数量均衡解为(𝑎)
 $\frac{1}{2x+1}$
 
