@@ -56,7 +56,7 @@ STAGE1:
 <div align="center"> dM/dx<sub>i</sub> = (a − 2x<sub>i</sub> − (m − 1)x<sub>k</sub> − r<sub>1</sub>)
 
 </div>
-<div align="center"> x= $\frac{a-r<sub>1</sub>}/ {1+m}$　　　　　　　　(a)
+<div align="center"> x= \frac{a-r<sub>1</sub>}/ {1+m}　　　　　　　　(a)
 </div>
 
 得出最终财厂商的的最终财生产数量均衡解为(𝑎)
