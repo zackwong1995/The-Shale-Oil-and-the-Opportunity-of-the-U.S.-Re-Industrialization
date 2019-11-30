@@ -54,11 +54,11 @@ P 设定成为市场原油总产量∑<sup>m</sup><sub>i=1</sub> x<sub>i</sub>]�
 STAGE1:
 由下式:
 <div align="center"> dM/dx<sub>i</sub> = (a − 2x<sub>i</sub> − (m − 1)x<sub>k</sub> − r<sub>1</sub>)
-
 </div>
+<br/>
 <div align="center"> x= (a-r<sub>1</sub>)/ (1+m)　　　　　　　　(a)
 </div>
-
+<br/>
 得出最终财厂商的的最终财生产数量均衡解为(𝑎)
 <br/>
 在国内，因厂商均质化，国内的总最终财产量为 mx 单位，而所需的总油品也为mx 单位，而国内的油品可选择页岩油来源 q1，以及石油来源 q2，故得到一方程式为
@@ -133,23 +133,58 @@ du/dv
 故得下限制式：
 <br/>
 </div>
-<div align="center"> Proposition: If and only if q2 <[2<sup>0.5</sup>(1-c)m γ<sup>0.5</sup> ]　/　<sup>[(1+m)(-m+2γ+2mγ)]</sup>, then u>0
+<div align="center"> Proposition: If and only if q2 <[2<sup>0.5</sup>(1-c)m γ<sup>0.5</sup> ]　/　[(1+m)(-m+2γ+2mγ)]<sup>0.5</sup>, then u>0
 </div>
 <br/>
 STAGE3 ：
+在 S TA GE 3 我们讨论设厂再国外的最终厂商厂商， 能使用的油品只有原油， 也就是 m x= q2 ( 国内为 mx = q 1 + q 2 ) ， 重复 s ta ge 1 的讨论方式再分析一次。
+得到：
+<br/>
+</div>
+<div align="center"> Mfdi=　-f+[(q2)<sup>2</sup>　/　m<sup></sup>]
+</div>
+<br/>
+而要造成回流情况必须 M s> Mf di 也就是国内的最终财厂商利润必须大于设厂国外的最终财厂商， 所以得到限制式:
+<br/>
+</div>
+<div align="center"> q2<(2<sup>0.5</sup> * (a-c) * m γ<sup>0.5</sup>)　/　(((1+m)(-m+2γ+2mγ)))<sup>0.5</sup>
+</div>
+<br/>
+于是加上 ST AG E 2 所得到的， 我们可得知若要设厂国外的厂商决定回流， 至少 q2 要满足下列两个限制式
+<br/>
+</div>
+<div align="center"> q2 <[2<sup>0.5</sup>(1-c)m γ<sup>0.5</sup> ]　/　[(1+m)(-m+2γ+2mγ)]<sup>0.5</sup>　　　　　　　　(c)
+</div>
 
+<br/>
+</div>
+<div align="center"> q2<(2<sup>0.5</sup> * (a-c) * m γ<sup>0.5</sup>)　/　(((1+m)(-m+2γ+2mγ)))<sup>0.5</sup>　　　　　　　　(d)
+</div>
+<br/>
+设 a 式大于 b 式， 则当 q2 小于 b 式时， 则两限制式皆成立， 再依此式整理出 m 限制临界值为
+<br/>
+</div>
+<div align="center"> {m　~　-2γ/(-1+2γ)}　　　　
+<br/> m=0 (现实中不存在)
+</div>
+<br/>
+接下来假设	γ介于0 ~ 1 之间， 并绘出图形如下图
+<div align="center"> <img src="https://github.com/zackwong1995/The-Shale-Oil-and-the-Opportunity-of-the-U.S.-Re-Industrialization/blob/master/6.png" width = 50% height = 50% alt="Figure 1" /> </div>
+<br/>
+可发现γ	> 0 . 25 并且	m/(2+2m)<γ　时， 厂商才会有选择回流， 迁返回美国设厂。
+### 四、结论
+我们探讨的问题分别是「企业回流美国是否有利? 」和「制造业厂商是否该回流美国? 」。经过我们设计的模型并分析归纳后得知， 若要在外设厂的外流厂商回流美国， 至少 q2 需要满足以下两个流件：
+<br/>
+</div>
+<div align="center"> q2 <[2<sup>0.5</sup>(1-c)m γ<sup>0.5</sup> ]　/　[(1+m)(-m+2γ+2mγ)]<sup>0.5</sup>　　　　　　　　(c)
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
+<br/>
+</div>
+<div align="center"> q2<(2<sup>0.5</sup> * (a-c) * m γ<sup>0.5</sup>)　/　(((1+m)(-m+2γ+2mγ)))<sup>0.5</sup>　　　　　　　　(d)
+</div>
+<br/>
+也就是说石油的生产量 q2 要少于一定的数量， 厂商才会决定回流美国设厂。在外设厂的厂商， 虽然在美国有页岩油的生产， 但是要回流美国的决定条件最终还是石油的整体产量。若石油国大量开采石油， 油价在全球范围内下跌， 那么厂商回流美国就没有很大的意义。
 
 
 
