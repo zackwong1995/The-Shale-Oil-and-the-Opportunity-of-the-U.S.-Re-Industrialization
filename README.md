@@ -42,30 +42,113 @@
 
 </div>
 <br/>
-(1.3)为最终财制造厂商的利润函数，P 为最终财的价格，f 为固定成本，xi 为最终财产量。也就是利润𝑃𝑥𝑖减去生产成本𝑟1𝑥𝑖(本文中油品为最终财唯一的生产要素)再减去固定成本 f。在本文中，把厂国内以及设厂国外的两种厂商设为Ms、Mfdi。
-
+(1.2)为最终财制造厂商的利润函数，P 为最终财的价格，f 为固定成本，xi 为最终财产量。也就是利润𝑃𝑥𝑖减去生产成本𝑟1𝑥𝑖(本文中油品为最终财唯一的生产要素)再减去固定成本 f。在本文中，把厂国内以及设厂国外的两种厂商设为Ms、Mfdi。
+<br/>
 <div align="center"> P= [a - ∑<sup>m</sup><sub>i=1</sub> x<sub>i</sub>]　　　　　　　　(1.3) 
 
 </div>
 <br/>
 (1.3)为原油的反需求函数，价格等于常数 a 减市场原油总产量。原油市场以往是属于寡占市场，厂商只要连手合作，即可以产量来控制市场的价格。但由于页岩油的技术开发及突破，使得在美国境内及多国如俄罗斯等地都相继出现愈来愈多页岩油厂商，大加了原油市场的竞争，使得市场的形态由往日的寡占市场转变成完全竞争市场。由于原油市场形态现时处于完全竞争之下，因此市场的价格由整个市场的产量决定，而非单一或少数厂商可以决定。所以在此程序会把价格
 P 设定成为市场原油总产量∑<sup>m</sup><sub>i=1</sub> x<sub>i</sub>]的函数。而常数 a 是在 0 产量时反映的市场价格。
-
+<br/>
 STAGE1:
 由下式:
 <div align="center"> dM/dx<sub>i</sub> = (a − 2x<sub>i</sub> − (m − 1)x<sub>k</sub> − r<sub>1</sub>)
 
 </div>
-<div align="center"> x= \frac{a-r<sub>1</sub>}/ {1+m}　　　　　　　　(a)
+<div align="center"> x= (a-r<sub>1</sub>)/ (1+m)　　　　　　　　(a)
 </div>
 
-
 得出最终财厂商的的最终财生产数量均衡解为(𝑎)
+<br/>
+在国内，因厂商均质化，国内的总最终财产量为 mx 单位，而所需的总油品也为mx 单位，而国内的油品可选择页岩油来源 q1，以及石油来源 q2，故得到一方程式为
+<br/>
+</div>
+<div align="center"> mx=q1+q2　　　　　　　　
+</div>
+<br/>
+将 a 式带入并整理后可得
+<br/>
+</div>
+<div align="center"> r<sub>1</sub>)= (1/m)(am-(1+m)(q1+q2))　　　
+</div>
+<br/>
+将上式代入(1.1)再对q1微分检验，其一阶微分du/dq1得最适反映函数：
+<br/>
+</div>
+<div align="center"> a-c - [(1+m)(2q1+q2)]/m + v　　　　　　　　(b)
+</div>
+<br/>
+二阶微分：
+<br/>
+</div>
+<div align="center"> -2(1+m)/m
+</div>
+可确定 q1 有最大值， 故接下来设 b 式=0 ， 求出
+<br/>
+</div>
+<div align="center"> q1=[(-q2+m(a-c-q2+v))] / [2(1+m)]
+</div>
+<br/>
+STAGE1得到下列三式：
+<br/>
+</div>
+<div align="center"> Q1= a-c - [(1+m)(2q1+q2)]/m + v
+</div>
+<br/>
+</div>
+<div align="center"> r<sub>1</sub>)= (1/m)(am-(1+m)(q1+q2))
+</div>
+<br/>
+</div>
+<div align="center"> x= (a-r<sub>1</sub>)/ (1+m)
+</div>
+<br/>
+STAGE2 :
+du/dv
+<br/>
+</div>
+<div align="center"> [m(a-c+v)]/　[2(1+m)]　-vγ 
+</div>
+<br/>
+二阶微分作验证得:
+<br/>
+</div>
+<div align="center"> m/(2+2m)　-γ
+</div>
+<br/>
+因此我们要假设二阶微分小于零， R&D的最适投资量才能拥有最大值
+<br/>
+</div>
+<div align="center"> m/(2+2m)<γ
+</div>
+<br/>
+整理后得到 R & D 的最适投资量
+<br/>
+</div>
+<div align="center"> v=[(a-c)m]　/　[-m+2(1+m)γ]
+</div>
+<br/>
+由此可见，v和q2的关系， q2 的变动并不会影响 R & D 的投资量。在算出R&D的最适投资量之下，页岩油厂商存活的的最低条件至少 u > 0 ， 而页岩油存在国外设厂的最终财厂商也才有机会回流。
+故得下限制式：
+<br/>
+</div>
+<div align="center"> Proposition: If and only if q2 <[2<sup>0.5</sup>(1-c)m γ<sup>0.5</sup> ]　/　<sup>[(1+m)(-m+2γ+2mγ)]</sup>, then u>0
+</div>
+<br/>
+STAGE3 ：
 
-(\frac {x} {y})^2
 
 
-$ \sum_{i=0}^N{X_i} $
+
+
+
+
+
+
+
+
+
 
 
 
